@@ -4,7 +4,7 @@
     <string name="page1_2">Ở chế độ nằm dọc (thẳng đứng), một cửa sổ ẩn đi lúc đó. Để chuyển giữa chúng, chỉ cần vuốt từ trái qua phải. Ở chế độ nằm ngang, hai cửa sổ đều hiển thị.</string>
     <string name="page2_1">Bạn có thể kéo một tập tin bằng cách bấm giữ lên biểu tượng của nó và thả bất kỳ đâu trên cửa sổ còn lại. Chỉ cần kéo nó đến cạnh màn hình và cửa sổ thứ hai sẽ xuất hiện.</string>
     <string name="page2_2">Bạn cũng có thể thả một tập tin vào một thư mục. Giữ tập tin đè lên thư mục một lát, và thư mục sẽ tự mở. Sau đó, chỉ cần thả tập tin vào đó..</string>
-    <string name="page3_1">Để chọn nhanh tập tin, chạm lên biểu tượng của nó. Thanh tùy chọn sẽ xuất hiện với một số chức năng hữu ích. Bạn có thể kích hoạt thêm các nút \&quot;copy\&quot;, \&quot;cut\&quot; và \&quot;send\&quot; ở mục Cài đặt.</string>
+    <string name="page3_1">Để chọn nhanh tập tin, chạm lên biểu tượng của nó. Thanh tùy chọn sẽ xuất hiện với một số chức năng hữu ích. Bạn có thể kích hoạt thêm các nút \&quot;chép\&quot;, \&quot;cắt\&quot; và \&quot;gửi\&quot; ở mục Cài đặt.</string>
     <string name="page3_2">Tính năng này không có trong khung nhìn dạng lưới. Bạn phải chọn dùng hành động Chọn ở Hành động.</string>
     <string name="page4_1">Tìm kiếm theo mục lục cung cấp khả năng tiếp cận nhanh chóng các tập tin ở bất kỳ đâu trên thiết bị của bạn. Việc tìm kiếm mất chưa đến một giây! Tuy nhiên, nếu không tìm thấy tập tin của bạn, bạn vẫn có thể dùng tùy chọn \'Tìm kiếm Thông thường\' để xem toàn bộ các tập tin trên thiết bị.</string>
     <string name="page4_2">Bạn cũng có thể tìm thiết bị của bạn bằng ứng dụng Tìm kiếm của Google. Vào trình Cài đặt trong Tìm kiếm của Google và kích hoạt Solid Explorer.</string>
