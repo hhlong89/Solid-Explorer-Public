@@ -35,15 +35,15 @@
     <string name="Photos">Ảnh</string>
     <string name="Downloads">Tải về</string>
     <string name="Network">Mạng</string>
-    <string name="Bookmarks">Bookmark</string>
-    <string name="No_bookmarks">Không bookmark</string>
+    <string name="Bookmarks">Đánh dấu</string>
+    <string name="No_bookmarks">Không có đánh dấu</string>
     
     <!-- "Menu" popup -->
     <string name="View">Xem</string>
     <string name="Sort">Xếp</string>
     <string name="Search">Tìm</string>
     <string name="Operations">Tác vụ</string>
-    <string name="Manage_bookmarks">Quản lý bookmark</string>
+    <string name="Manage_bookmarks">Quản lý đánh dấu</string>
     <string name="File_sharing">Chia sẻ tập tin</string>
     <string name="Settings">Cài đặt</string>
     <string name="Exit">Thoát</string>
@@ -85,7 +85,7 @@
     <string name="Open_with">Mở với...</string>
     <string name="Open_in_bg">Mở ở bên</string>
     <string name="Send">Gửi qua</string>
-    <string name="Bookmark">Bookmark</string>
+    <string name="Bookmark">Đánh dấu</string>
     <string name="Rename">Đổi tên</string>
     <string name="Extract">Giải nén</string>
     <string name="Extract_to">Giải nén đến</string>
@@ -175,7 +175,7 @@
     	<string name="File_operation">Tác vụ trên tập tin</string>
     
     <!-- Bookmark manager -->
-    <string name="Bookmark_manager">Quản lý bookmark</string>
+    <string name="Bookmark_manager">Quản lý đánh dấu</string>
     <string name="Edit">Sửa</string>
     <string name="Disconnect">Ngắt kết nối</string>
     <string name="Delete_all">Xóa hết</string>
@@ -185,12 +185,12 @@
     <string name="Connected">Đã kết nối</string> 
     <string name="Not_connected">Không thể kết nối</string>
     <string name="on">Mở</string>
-    <string name="Local_bookmarks">Bookmark nội bộ</string>
-    <string name="FTP_bookmarks">FTP bookmark</string>
-    <string name="SFTP_bookmarks">SFTP bookmark</string>
-    <string name="SMB_bookmarks">SMB bookmark</string>
-    <string name="Cloud_bookmarks">Cloud bookmark</string>
-    <string name="Edit_bookmark">Sửa bookmark</string>
+    <string name="Local_bookmarks">Đánh dấu ở thiết bị</string>
+    <string name="FTP_bookmarks">FTP được đánh dấu</string>
+    <string name="SFTP_bookmarks">SFTP được đánh dấu</string>
+    <string name="SMB_bookmarks">SMB được đánh dấu</string>
+    <string name="Cloud_bookmarks">Lưu trữ đám mây được đánh dấu</string>
+    <string name="Edit_bookmark">Sửa đánh dấu</string>
     <string name="Name">Tên</string>
     <string name="Path">Đường dẫn</string>
     
@@ -204,7 +204,7 @@
     <!-- File sharing -->
     <string name="File_sharing_active">Đã kích hoạt chia sẻ tập tin</string>
     <string name="ftp_server_hint">Để kết nối, nhập địa chỉ máy chủ trên thanh địa chỉ của Windows Explorer, hoặc dùng bất kỳ FTP khác.</string>
-    <string name="You_cannot_share_root_directory">Bạn khoongtheer chia sẻ thư mục root</string>
+    <string name="You_cannot_share_root_directory">Bạn không thể chia sẻ thư mục root</string>
     <string name="File_sharing_stopped">Dừng chia sẻ tập tin</string>
     <string name="None">Không</string>
     <string name="You_have_to_be_connected_to_the_LAN_network">Bạn cần phải kết nối với mạng nội bộ</string>
@@ -234,7 +234,7 @@
     <!-- File properties -->
     <string name="Content_summary">Tóm lược nội dung</string>
     <string name="File_types">Dạng tập tin</string>
-    <string name="Top_files">Top % tập tin</string>
+    <string name="Top_files">Tốp % tập tin</string>
     <string name="Location">Vị trí</string>
     <string name="Type">Dạng</string>
     <string name="Parent_path">Đường dẫn chính</string>
@@ -274,7 +274,7 @@
     <string name="Others">Khác</string>
     <string name="Owners">Sở hữu</string>
     <string name="Permissions">Quyền</string>
-    <string name="Set">Set</string>
+    <string name="Set">Đặt</string>
     <string name="Used_space">Không gian đã dùng</string>
     <string name="Free_space">Không gian trống</string>
     <string name="Total_size">Kích thước tổng</string>
@@ -332,8 +332,8 @@
     	<string name="File_exists_descr">Đã có một tập tin cùng tên trong thư mục. Bạn muốn làm gì?</string>
     	<string name="Are_you_sure_you_want_to_delete">Bạn có chắc muốn xóa \&quot;%\&quot;?</string>
     	<string name="Are_you_sure_to_abort_current_operation">Bạn có chắc sẽ hủy tác vụ hiện tại?</string>
-    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Bạn có chắc muốn xóa tất cả bookmark?</string>
-    	<string name="Are_you_sure_you_want_to_delete_bookmark">Bạn có chắc muốn xóa bookmark sau: \&quot;%\&quot; ?</string>
+    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Bạn có chắc muốn xóa tất cả các đánh dấu?</string>
+    	<string name="Are_you_sure_you_want_to_delete_bookmark">Bạn có chắc muốn xóa đánh dấu sau: \&quot;%\&quot; ?</string>
     	<string name="Reindex_prompt">Đang thực hiện một chỉ mục. Có thể mất vài phút. Vẫn tiến hành?</string>
     	<string name="Clear_index_prompt">Bạn có chắc muốn xóa tất cả dữ liệu mục lục? Tác vụ này không thể hoàn lại.</string>
     	<string name="Are_you_sure_to_stop_indexing">Bạn có chắc muốn dừng lập chỉ mục?</string>
@@ -384,8 +384,8 @@
     	<string name="You_cant_delete_this_item">Không thể xóa mục này</string>
     	<string name="Indexing_service">Dịch vụ lập chỉ mục</string>
     	<string name="Only_local_file_can_be_added_to_the_archive">Chỉ có thể thêm một tập tin được lưu trữ nội bộ vào tập tin nén</string>
-    	<string name="Bookmark_already_exists">Bookmark hiện có sẵn</string>
-    	<string name="Added_to_bookmarks">\&quot;%\&quot; đã được thêm vào bookmark</string>
+    	<string name="Bookmark_already_exists">Đánh dấu hiện có sẵn</string>
+    	<string name="Added_to_bookmarks">\&quot;%\&quot; đã được đánh dấu</string>
     	<string name="Rename_a_file">Đổi tên một tập tin</string>
     	<string name="Input_was_left_blank">Mục nhập đang trống</string>
     	<string name="File_named_already_exists">Tập tin \&quot;%\&quot; hiện có sẵn</string>
@@ -488,8 +488,8 @@
 	<!-- NOTE FROM STEVEN: The Android Design Guideline prefers that you have two strings for each check box: One for when it is selected, and one for when it is not.-->
 	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
     <string name="Appearance">Giao diện</string>
-	<string name="Theme">Theme</string>
-    <string name="Choose_between_preinstalled_themes">Chọn giữa các theme có sẵn</string>
+	<string name="Theme">Chủ đề</string>
+    <string name="Choose_between_preinstalled_themes">Chọn giữa các chủ đề có sẵn</string>
     <string name="Light">Sáng</string>
     <string name="Dark">Tối</string>
     
@@ -708,17 +708,17 @@
 	<string name="Image_not_loaded">Không tải được ảnh</string>
 	<string name="Target_SDK">Target SDK</string>
 	<string name="Description">Mô tả</string>
-	<string name="Data_dir">Data dir</string> <!-- short word please -->
+	<string name="Data_dir">Mục dữ liệu</string> <!-- short word please -->
 	<string name="Installed">Đã cài đặt</string>
 	<string name="Updated">Đã cập nhật</string>
 	<string name="Install">Cài đặt</string>
 	<string name="More">Thêm</string>
 	<string name="Package_name">Tên gói</string>
-	<string name="Map_view">Map view</string>
-	<string name="Street_view">Street view</string>
-	<string name="Ask">Ask</string>
+	<string name="Map_view">Xem bản đồ</string>
+	<string name="Street_view">Xem chỉ đường</string>
+	<string name="Ask">Yêu cầu</string>
 	<string name="Choose_an_action">Chọn một hành động</string>
-	<string name="Folders_first">Folders first</string>
+	<string name="Folders_first">Ưu tiên thư mục</string>
 	<string name="Folders_first_summary">Hiển thị ứng dụng trước rồi tới tập tin.</string>
 	<string name="FAQ">Hỏi/Đáp</string>
 	<string name="FAQ_summary">Vui lòng đọc Hỏi/Đáp trước khi đặt câu hỏi</string>
@@ -834,12 +834,57 @@
 		<string name="Slide_from_right">Trượt từ phải sang</string>
 		<string name="Slide_from_left">Trượt từ trái sang</string>
 		<string name="Default">Mặc định</string>
-		<string name="List_animations">Danh sách hình động</string>
-		<string name="List_animations_summary">Tùy chỉnh danh sách hình động</string>
+		<string name="List_animations">Danh sách hiệu ứng</string>
+		<string name="List_animations_summary">Tùy chỉnh danh sách hiệu ứng</string>
 		<string name="Clear_filter_history">Xóa lịch sử lọc</string>
 		<string name="Clear_filter_history_summary">Xóa lịch sử truy vấn của bộ lọc</string>
 		<string name="New_webdav_connection">Kết nối WebDav</string>
-		<string name="WebDav_bookmarks">Bookmark của WebDav</string>
+		<string name="WebDav_bookmarks">Đánh dấu trên WebDav</string>
 		
+		<!--  v 1.4.5 -->
+                <string name="Domain">Tên miền</string>
+                <string name="Mode">Chế độ</string>
+                <string name="Passive">Bị động</string>
+                <string name="Nomedia_on">Đã tạo tệp .nomedia</string>
+                <string name="Nomedia_off">Đã xóa tệp .nomedia</string>
+                <string name="Wifi_disabled">Tắt WiFi</string>
+                <string name="Wifi_enabled">Mở WiFi</string>
+                <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Bạn muốn phục hồi thiết lập mặc định cho mục này?</string>
+                
+                
+                <!-- v 1.4.6 -->
+                <string name="no_wifi_available">Không có Wifi. Bạn muốn thiết lập điểm phát sóng trên thiết bị?</string>
+                <string name="disable_hotspot">Tắt điểm phát sóng?</string>
+                
+                <!-- v 1.5 -->
+                <string name="Any_type">Các loại</string>
+                <string name="Ubuntu_one_login">Đăng nhập Ubuntu One</string>
+                <string name="Master_password_has_been_changed">Đã thay mật khẩu cấp cao</string>
+                <string name="Encryption">Mã hóa</string>
+                <string name="Certificates">Chứng chỉ</string>
+                <string name="Trust_all_ssl_certificates">Tin tưởng mọi chứng chỉ SSL</string>
+                <string name="Use_at_your_own_risk">Tự chịu trách nhiệm</string>
+                <string name="Gestures">Cử chỉ</string>
+                <string name="Enable_list_zoom">Cho phép thu/phóng danh sách</string>
+                <string name="Enable_list_zoom_summary">Khi cho phép, bạn có thể thay cỡ danh sách bằng cử chỉ vuốt 2 ngón</string>
+                <string name="Mediafire_login">Đăng nhập MediaFire</string>
+                <string name="No_master_password_set">Chưa đặt mật khẩu cấp cao</string>
+                
+                <!-- v 1.5.1 -->
+                <string name="Ssl_certificate_is_not_trusted">Chứng chỉ chưa được liên kết bởi quyền tin cậy. Bạn vẫn cho phép?</string>
+                <string name="Issuer">Tổ chức phát hành</string>
+                <string name="Subject">Đề mục</string>
+                <string name="Expiration">Mãn hạn</string>
+                <string name="Common_name">Tên chung</string>
+                <string name="Organization">Quản lý</string>
+                <string name="Organizational_unit">Đơn vị quản lý</string>
+                <string name="Country">Quốc gia</string>
+                <string name="State">Bang</string>
+                <string name="Algorithm">Thuật toán</string>
+                <string name="Exponent">Lũy thừa</string>
+                <string name="Key_length">Độ dài mã</string>
+                <string name="Accept">Cho phép</string>
+                <string name="Rescan_all_media">Quét lại mọi tệp giải trí</string>
+                <string name="Rescan_all_media_summary">Quét mọi tệp giải trí sau khi chuyển tập tin. Dùng tùy chọn này nếu thư viện không cập nhật như thường lệ.</string>
 		
 </resources>
