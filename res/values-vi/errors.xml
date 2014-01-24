@@ -52,4 +52,12 @@
     <string name="Unlocker_error">Đã có thể mở khóa nhưng gặp lỗi. Nó thường xảy ra khi 1 ứng dụng khác chặn quyền truy cập của nó, ví dụ phần mềm diệt virus. Hãy chắc chắn Solid Explorer và ứng dụng mở khóa được loại ra khỏi danh sách đen và khởi động ứng dụng 1 lần nữa.</string>
     <string name="Unable_to_get_the_link">Không thể lấy liên kết.</string>
     
+    <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">Đã chuyển nguồn được yêu cầu</string>
+    <string name="Invalid_syntax">Cú pháp không hợp lệ</string>
+    <string name="Service_unavailable">Tạm thời không có dịch vụ này, vui lòng thử lại sau</string>
+    <string name="Unauthorized">Chưa cho phép, vui lòng đăng nhập lại</string>
+    <string name="Resource_not_found">Không tìm thấy nguồn</string>
+    <string name="Method_not_allowed">Phương pháp được yêu cầu không cho phép với nguồn này</string>
+    <string name="Timeout_reached">Quá thời gian chờ</string>
 </resources>
